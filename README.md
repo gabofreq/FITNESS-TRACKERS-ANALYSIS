@@ -10,6 +10,5 @@
 #### Framework modules
 
 
-
-![imagen](https://user-images.githubusercontent.com/36687480/213280185-cee7cdc9-094a-4cc3-b539-629d662b8c47.png)
+![imagen](https://user-images.githubusercontent.com/36687480/213280478-d082ef9e-06ab-4b3f-9e0b-860e950a401a.png)
 #### Comparison of average sentiments (Users vs Manufacturers)
