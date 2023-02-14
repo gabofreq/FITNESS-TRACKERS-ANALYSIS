@@ -1,4 +1,4 @@
-# Comparison of Sentiment of User vs Manufacturers on fitness trackers, using reviews of Amazon
+# Assessing User and Manufacturer Perceptions of Fitness Trackers through Amazon Review Analysis
 
 ## Abstract
 
